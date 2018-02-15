@@ -1,17 +1,29 @@
 # RayTracing
 a Fragment Shader with lights and shadows test.
 after reciving a 3d scene, the shader creates the accurate picture with shadows and lights depending on the kind of light.
+
 • Background:
+
 o Plain color background
+
 • Display geometric primitives in space:
+
 o Spheres
+
 o Planes
+
 • Basic lighting:
+
 o Directional lights
+
 o Spot lights
+
 o Ambient light
+
 o Simple materials (ambient, diffuse, specular...)
+
 • Basic hard shadows
+
 • One Reflection (default as turned off)
 
 input is considered to be arrays with the objects already parsed.
