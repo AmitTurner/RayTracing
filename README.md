@@ -1,6 +1,6 @@
 # RayTracing
 a Fragment Shader with lights and shadows test.
-after reciving a 3d scene, the shader creates the accurate picture with shadows and lights depending on the kind of light.
+after recieving a 3d scene, the shader creates the accurate picture with shadows and lights depending on the kind of light.
 
 • Background:
 
