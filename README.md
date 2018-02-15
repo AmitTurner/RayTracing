@@ -27,3 +27,6 @@ a non-positive value.
 values (R,G,B,A). 'A' represents the shininess parameter value
 
 Examples created by the shader:
+![alt text](https://raw.githubusercontent.com/AmitTurner/RayTracing/master/scene0.png)
+![alt text](https://raw.githubusercontent.com/AmitTurner/RayTracing/master/scene1.png)
+![alt text](https://raw.githubusercontent.com/AmitTurner/RayTracing/master/scene2.png)
