@@ -1,32 +1,32 @@
-# RayTracing
-a Fragment Shader with lights and shadows test.
-after recieving a 3d scene, the shader creates the accurate picture with shadows and lights depending on the kind of light.
+# Ray Tracing
+A fragment shader with lights and shadows test.
+After recieving a 3d scene, the shader creates the accurate picture with shadows and lights.
 
-• Background:
+🌄 Background:
 
-o Plain color background
+  o Plain color background
 
-• Display geometric primitives in space:
+💠 Display geometric primitives in space:
 
-o Spheres
+  o Spheres
 
-o Planes
+  o Planes
 
-• Basic lighting:
+💡 Basic lighting:
 
-o Directional lights
+  o Directional lights
 
-o Spot lights
+  o Spot lights
 
-o Ambient light
+  o Ambient light
 
-o Simple materials (ambient, diffuse, specular...)
+  o Simple materials (ambient, diffuse, specular...)
 
-• Basic hard shadows
+👥 Basic hard shadows
 
-• One Reflection (default as turned off)
+🪞 One Reflection (default as turned off)
 
-input is considered to be arrays with the objects already parsed.
+Input is considered to be arrays with the objects already parsed.
 Light direction will describe by light direction (x, y, z, w). 'w' value
 will be 0.0 for directional light and 1.0 for spotlight.
 - For spotlights the position will in lightPosition[] (x,y,z,w).
