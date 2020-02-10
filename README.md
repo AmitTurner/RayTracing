@@ -3,24 +3,17 @@ A fragment shader with lights and shadows test.
 After recieving a 3d scene, the shader creates the accurate picture with shadows and lights.
 
 🌄 Background:
-
-  o Plain color background
+- Plain color background
 
 💠 Display geometric primitives in space:
-
-  o Spheres
-
-  o Planes
+- Spheres
+- Planes
 
 💡 Basic lighting:
-
-  o Directional lights
-
-  o Spot lights
-
-  o Ambient light
-
-  o Simple materials (ambient, diffuse, specular...)
+- Directional lights
+- Spot lights
+- Ambient light
+- Simple materials (ambient, diffuse, specular...)
 
 👥 Basic hard shadows
 
